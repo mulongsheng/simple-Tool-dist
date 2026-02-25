@@ -13,6 +13,7 @@
       "tweak",
       "utility"
     ],
+    "IconUrl": "https://raw.githubusercontent.com/mulongsheng/simple-Tool-dist/main/icon.png",
     "DownloadLinkInstall": "https://github.com/mulongsheng/simple-Tool-dist/releases/download/v1.1.2.3/SpeedRadiusPlugin.zip",
     "DownloadLinkTesting": "https://github.com/mulongsheng/simple-Tool-dist/releases/download/v1.1.2.3/SpeedRadiusPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/mulongsheng/simple-Tool-dist/releases/download/v1.1.2.3/SpeedRadiusPlugin.zip"
